@@ -2,7 +2,10 @@
 title = "Нежадные (ungreedy) регулярные выражения в Javascript"
 date = 2010-12-08T00:00:00+03:00
 tags = ["javascript", "regexp"]
+summary = "Как писать нежадные регулярные выражения в JS"
 +++
+
+{{< oldpost >}}
 
 Привет.
 
