@@ -5,3 +5,4 @@ title: My shitty testing site
 module:
   imports:
     - path: github.com/jpanther/congo/v2
+
