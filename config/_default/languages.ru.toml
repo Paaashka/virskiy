@@ -3,7 +3,7 @@ languageName = "Russian"
 languageDirection = "ltr"
 weight = 1
 
-title = "Павел Вирский"
+title = "Паша Вирский"
 copyright = "© Павел Вирский 2024"
 
 [params]
@@ -16,9 +16,9 @@ dateFormat = "2 January 2006"
 name = "Паша Вирский"
 image = "img/me.jpg"
 headline = "Инженер, тимлид и шкипер"
-bio = "1234"
+bio = "Bio!"
 links = [
-    { email = "mailto:hello@your_domain.com" },
+    { email = "mailto:me@pashinblog.ru" },
     #   { link = "https://link-to-some-website.com/" },
     #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     #   { apple = "https://www.apple.com" },
